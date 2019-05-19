@@ -65,29 +65,67 @@
 	],
 	"skills": [
 		{
-			"name": "Python & Django",
-			"percent": "98%"
-		},
-		{
 			"name": "Javascript & jQuery",
-			"percent": "90%"
+			"percent": "90%",
+			"type":"general",
+			"attrs":[
+				{
+					"name": "Python",
+					"percent": "98%"
+				},
+				{
+					"name": "C",
+					"percent": "98%"
+				},
+			],
 		},
 		{
-			"name": "Angular",
-			"percent": "80%"
+			"type":"Web Development",
+			"attrs":[
+				{
+					"name": "HTML5 & CSS",
+					"percent": "99%"
+				},
+				{
+					"name": "Javascript & jQuery",
+					"percent": "90%"
+				}
+			],
 		},
 		{
-			"name": "HTML5 & CSS",
-			"percent": "99%"
+			"type":"Mobile Development",
+			"attrs":[
+				{
+					"name": "React Native (Cross platform ..ios and android)",
+					"percent": "99%"
+				},
+				{
+					"name": "Android Development(Java)",
+					"percent": "90%"
+				}
+			],
 		},
 		{
-			"name": "Ruby on Rails",
-			"percent": "70%"
+			"type":"IBM Zos",
+			"attrs":[
+				{
+					"name": "Assembler",
+					"percent": "99%"
+				},
+				{
+					"name": "Rexx",
+					"percent": "90%"
+				},
+				{
+					"name": "C",
+					"percent": "90%"
+				},
+				{
+					"name": "Java",
+					"percent": "90%"
+				}
+			],
 		},
-		{
-			"name": "Sketch & Photoshop",
-			"percent": "85%"
-		}
 	],
 	"education": [
 		{
