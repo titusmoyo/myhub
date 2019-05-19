@@ -11,17 +11,30 @@
 			"title" : "Student, FreeLancer",
 			"location":"at Université de Boumerdes",
 			"period": "Present",
-			"company": "Startup Hubs, San Francisco",
 			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"details": "Working towards increasing and harnessing well my growing enterprise system skills, more involvement in open source projects and facilitating projects and researches .Creating Mobile Applications and Web solutions for clients on online Platforms",
 		},
 		{
-			"title" : "Senior Software Engineer",
-			"period": "2014 - 2015",
-			"company": "Google, London",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
-		}
+			"title" : "Master the Mainframe Contest Winner 2018",
+			"period": "2018",
+			"location":"algeria",
+			"companyURL": "https://masterthemainframe.com/master-mainframe-2018-winners/",
+			"details": "Was a Regional winner in Master the Mainframe Contest (2018) for Africa and Middle East, a programming contest offered by IBM."
+		},
+		{
+			"title" : "Master the Mainframe practical Experience Badge",
+			"period": "2018",
+			"location":"algeria",
+			"companyURL": "https://www.youracclaim.com/earner/earned/badge/bf080a8b-409f-4b9b-be38-dfec024d44ec",
+			"details": "I earned a badge on the ability to innovate on the mainframe by solving real life situations encountered by experienced systems programmers.I demonstrated programming skills (advanced commands system navigation) and ability to develop application tasks (C, JAVA, COBOL, assembler and REXX), all on the z/OS platform",
+		},
+		{
+			"title" : "Master the Mainframe Real world Challenges Badge",
+			"period": "2018",
+			"location":"algeria",
+			"companyURL": "https://www.youracclaim.com/earner/earned/badge/ba33d6d3-05d8-45e6-9104-d3e23305508f",
+			"details": "I earned a badge for mastering basic mainframe concepts,perform programming (advanced commands, system setup, and advanced system navigation) and application developing tasks(C, JAVA, COBOL, assembler and REXX) all on the z/OS platform",
+		},
 	],
 	"projects": [
 		{
@@ -78,14 +91,19 @@
 	],
 	"education": [
 		{
-			"degree": "MSc in Computer Science",
-			"university": "University of London",
-			"period": "2011 - 2012"
+			"degree": "Computer Science",
+			"university": "Université de Boumerdes",
+			"period": "current"
 		},
 		{
-			"degree": "BSc in Applied Mathematics",
-			"university": "Bristol University",
-			"period": "2007 - 2011"
+			"degree": "Advanced And Ordinary Level",
+			"university": "Mwenezi Government High school",
+			"period": "2011-2016"
+		},
+		{
+			"degree": "National Foundation certificate in Computer Operations and packages",
+			"university": "Mwenezi Government High school",
+			"period": "2014"
 		}
 	],
 	"languages": [
@@ -103,9 +121,9 @@
 		}
 	],
 	"interests": [
-		"Climbing",
-		"Snowboarding",
-		"Cooking",
-		"Coding"
+		"hackathons",
+		"music",
+		"coding",
+		"food",
 	]
 }
